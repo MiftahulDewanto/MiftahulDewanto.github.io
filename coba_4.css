@@ -1,0 +1,47 @@
+.header-list li {
+  color: #ff0000;
+}
+
+
+li {
+  float: left;
+}
+
+
+span {
+  color: #ff0000;
+}
+
+
+logo1 {
+  border: 10px solid blue;
+}
+logo1 {
+  border-bottom: 5px solid #ff0000;
+}
+
+
+logo1 {
+  border: 3px solid #ff0000;
+  padding: 10px;
+  margin: 20px;
+}
+
+
+logo1 {
+  margin-top: 20px;
+  margin-right: 10px;
+  margin-bottom: 20px;
+  margin-left: 10px;
+}
+logo1 {
+  margin: 20px 10px 20px 10px;
+}
+logo1 {
+  margin: 20px 10px;
+}
+
+
+h1, p {
+  color: #ff0000;
+}
