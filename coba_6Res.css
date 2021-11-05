@@ -1,0 +1,39 @@
+@media(max-width: 1000px ) {
+  .lesson {
+    width: 20%;
+  }
+}
+
+
+@media(max-width: 1000px ) {
+  .lesson {
+    width: 100%;
+  }
+}
+
+
+@media(max-width: 720px ) {
+  footer {
+    text-align:center;
+  }
+}
+
+
+@media(max-width: 720px ) {
+  .btn {
+    width: 80%;
+  }
+  .facebook {
+    margin-bottom: 30px;
+  }
+}
+
+
+@media(max-width: 720px ) {
+  .header-right {
+    display: none;
+  }
+  .menu-icon {
+    display: block;
+  }
+}
