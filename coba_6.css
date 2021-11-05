@@ -1,0 +1,45 @@
+@media(max-width: 1000px ) {
+  /* CSS diterapkan ketika kondisi sesuai */
+}
+
+
+h1 {
+  color: blue;
+}
+@media(max-width: 1000px ) {
+  h1 {
+    color : yellow;
+  }
+}
+
+
+.item {
+  width: 30%;
+}
+@media(max-width: 1000px ) {
+  .item {
+  width: 80%;
+  }
+}
+
+
+* {
+  box-sizing:border-box;
+}
+
+
+.clear {
+  clear: left;
+}
+
+
+
+.container {
+  max-width: 1080px;
+  width: 80%;
+}
+
+
+.menu-icon {
+  display: none;
+}
