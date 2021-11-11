@@ -1,0 +1,89 @@
+.box {
+  box-shadow: 10px 10px #F0F8FF;
+}
+.box {
+  box-shadow: 10px 0px #F0F8FF;
+}
+
+
+div:active {
+  background-color: green;
+}
+
+
+.btn:active {
+  box-shadow: none;
+}
+
+
+.btn:active {
+  position: relative;
+  top: 10px;
+  left: 25px;
+}
+
+
+.btn:active {
+  position: relative;
+  top: 10px;
+  box-shadow: none;
+}
+
+
+.fixed-img {
+  position: absolute;
+  top: 10px;
+  left: 30px;
+}
+
+
+div { 
+  transition: all 2s:
+}
+div:hover; {
+  background-color: yellow;
+}
+
+
+.h1 {
+  line-height: 20px;
+  font-weight: bold;
+}
+
+
+.btn {
+  height: 80px;
+  line-height: 80px;
+}
+
+
+.child {
+  width: 30%;
+}
+
+
+.box1 {
+  position: absolute;
+  top: 50px;
+  left: 40px;
+}
+.box1 {
+  position: absolute;
+  top: 90px;
+  left: 80px;
+}
+
+
+.child {
+  position: absolute;
+  top: 50px;
+  left: 80px;
+}
+.parent {
+  position: relative;
+}
+.child {
+  position: absolute;
+  top: 50px;
+  left: 80px;
+}
